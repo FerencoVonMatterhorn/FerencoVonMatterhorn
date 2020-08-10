@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently studying informatitcs 
 - 💬 Ask me about Docker, k8s, CI/CD :nerd_face:
-- 📫 How to reach me: ...
+- 📫 How to reach me: check my twitter link :bird:
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 -->
