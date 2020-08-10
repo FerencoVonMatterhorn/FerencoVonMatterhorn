@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt Text](https://media2.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif?cid=ecf05e47x75n11vd31h4xj53sqylrgshxfedv31731cjebks&rid=giphy.gif)
+
 <!--
 **FerencoVonMatterhorn/FerencoVonMatterhorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
