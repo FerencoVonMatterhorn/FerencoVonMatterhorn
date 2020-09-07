@@ -1,6 +1,4 @@
-<div align="center">
 <img src="https://media2.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif?cid=ecf05e47x75n11vd31h4xj53sqylrgshxfedv31731cjebks&rid=giphy.gif" alt="Hello">
-</div>
 
 - 🌱 I’m currently studying informatics 
 - 💬 Ask me about Docker, K8s, CI/CD, Service Mesh :nerd_face:
