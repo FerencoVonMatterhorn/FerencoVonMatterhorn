@@ -6,10 +6,10 @@
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ferencovonmatterhorn&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ferencovonmatterhorn" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ferencovonmatterhorn&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ferencovonmatterhorn" />
 </a>
 
 [![Ferenco's github stats](https://github-readme-stats.vercel.app/api?username=ferencovonmatterhorn)](https://github.com/anuraghazra/github-readme-stats)  
