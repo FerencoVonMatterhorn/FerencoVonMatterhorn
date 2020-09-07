@@ -5,12 +5,12 @@
 - 📫 How to reach me: check my twitter link :bird:
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ferencovonmatterhorn" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ferencovonmatterhorn" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn&layout=compact&hide=html" alt="ferenco's stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ferencovonmatterhorn&show_icons=true&count_private=true" alt="ferenco's stats" width="50%"/></p>  
+
+
+
+
 
 [![Ferenco's github stats](https://github-readme-stats.vercel.app/api?username=ferencovonmatterhorn)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn)](https://github.com/anuraghazra/github-readme-stats)
