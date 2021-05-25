@@ -7,5 +7,5 @@
 
 
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn" alt="ferenco's stats" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ferencovonmatterhorn" alt="ferenco's stats" width="50%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn&theme=synthwave" alt="ferenco's stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ferencovonmatterhorn&theme=synthwave" alt="ferenco's stats" width="50%"/></p>
