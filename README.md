@@ -5,14 +5,5 @@
 - 📫 How to reach me: check my twitter link :bird:
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn&theme=dark" alt="ferenco's stats" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn&theme=radical" alt="ferenco's stats" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn&theme=merko" alt="ferenco's stats" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn&theme=gruvbox" alt="ferenco's stats" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn&theme=tokyonight" alt="ferenco's stats" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn&theme=onedark" alt="ferenco's stats" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn&theme=cobalt" alt="ferenco's stats" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn&theme=synthwave" alt="ferenco's stats" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn&theme=highcontrast" alt="ferenco's stats" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn&theme=dracula" alt="ferenco's stats" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ferencovonmatterhorn&theme=tokyonight" alt="ferenco's stats" width="50%"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ferencovonmatterhorn&theme=radical" alt="ferenco's stats" width="50%"/></p>
