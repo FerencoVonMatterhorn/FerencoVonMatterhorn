@@ -10,10 +10,10 @@
 
 ### Some things I've built
 
-| | |
-|---|---|
-| [**fragvault**](https://github.com/FerencoVonMatterhorn/fragvault) | CS2 highlight discovery — Go + Postgres, a Node sidecar that speaks the CS2 game coordinator protocol, five containers on one Azure VM behind Caddy |
-| [**KO-Cast**](https://github.com/FerencoVonMatterhorn/KO-Cast) | A streaming platform I wanted so I could share my screen while hunting stupid stock options 🚀 |
-| [**twitch-lichess-predictions**](https://github.com/FerencoVonMatterhorn/twitch-lichess-predictions) | Automatic Twitch predictions for ongoing lichess.org games |
-| [**therapiezentrum-horvay**](https://github.com/FerencoVonMatterhorn/therapiezentrum-horvay) | Prerendered Angular site for an occupational therapy practice, shipped as an nginx container |
-| [**CSGO-Prom-Exporter**](https://github.com/FerencoVonMatterhorn/CSGO-Prom-Exporter) · [**fritzdect-prom-exporter**](https://github.com/FerencoVonMatterhorn/fritzdect-prom-exporter) | Prometheus exporters for a CS:GO server and a Fritz!Dect 200 smart plug |
+<table>
+<tr><td><a href="https://github.com/FerencoVonMatterhorn/fragvault"><b>fragvault</b></a></td><td>CS2 highlight discovery — Go + Postgres, a Node sidecar that speaks the CS2 game coordinator protocol, five containers on one Azure VM behind Caddy</td></tr>
+<tr><td><a href="https://github.com/FerencoVonMatterhorn/KO-Cast"><b>KO-Cast</b></a></td><td>A streaming platform I wanted so I could share my screen while hunting stupid stock options 🚀</td></tr>
+<tr><td><a href="https://github.com/FerencoVonMatterhorn/twitch-lichess-predictions"><b>twitch-lichess-predictions</b></a></td><td>Automatic Twitch predictions for ongoing lichess.org games</td></tr>
+<tr><td><a href="https://github.com/FerencoVonMatterhorn/therapiezentrum-horvay"><b>therapiezentrum-horvay</b></a></td><td>Prerendered Angular site for an occupational therapy practice, shipped as an nginx container</td></tr>
+<tr><td><a href="https://github.com/FerencoVonMatterhorn/CSGO-Prom-Exporter"><b>CSGO-Prom-Exporter</b></a> · <a href="https://github.com/FerencoVonMatterhorn/fritzdect-prom-exporter"><b>fritzdect-prom-exporter</b></a></td><td>Prometheus exporters for a CS:GO server and a Fritz!Dect 200 smart plug</td></tr>
+</table>
