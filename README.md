@@ -17,8 +17,3 @@
 | [**twitch-lichess-predictions**](https://github.com/FerencoVonMatterhorn/twitch-lichess-predictions) | Automatic Twitch predictions for ongoing lichess.org games |
 | [**therapiezentrum-horvay**](https://github.com/FerencoVonMatterhorn/therapiezentrum-horvay) | Prerendered Angular site for an occupational therapy practice, shipped as an nginx container |
 | [**CSGO-Prom-Exporter**](https://github.com/FerencoVonMatterhorn/CSGO-Prom-Exporter) · [**fritzdect-prom-exporter**](https://github.com/FerencoVonMatterhorn/fritzdect-prom-exporter) | Prometheus exporters for a CS:GO server and a Fritz!Dect 200 smart plug |
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferencovonmatterhorn&layout=compact&theme=radical" alt="Most used languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ferencovonmatterhorn&theme=radical&show_icons=true" alt="ferenco's GitHub stats" height="165" />
-</p>
